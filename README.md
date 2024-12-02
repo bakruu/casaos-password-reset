@@ -9,7 +9,7 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-be
 
 and there is the second one;
 ```bash
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-bear-scripts/master/reset-password-for-casaos/run.sh)"(https://raw.githubusercontent.com/bakruu/casaos-password-reset/refs/heads/main/run.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-bear-scripts/master/reset-password-for-casaos/run.sh)"
 ```
 
 # Credit
